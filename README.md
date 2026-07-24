@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:2E9EF7&height=180&section=header&text=Gowtham%20Jegatheeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate&descAlignY=62&descSize=18&descColor=eeeeee" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Gowtham%20Jegatheeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate&descAlignY=62&descSize=18&descColor=8FE3FF" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1800&color=00F5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Embedded+%26+IoT+Systems;AI+%2F+ML+Enthusiast;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1800&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Embedded+%26+IoT+Systems;AI+%2F+ML+Enthusiast;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,4 +46,4 @@
 
 <p align="center"><i>"Building things at the intersection of software, hardware, and intelligence."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:2E9EF7&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
