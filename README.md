@@ -11,7 +11,7 @@
 
 <p align="center">📍 Sri Lanka &nbsp;|&nbsp; 🎓 University of Jaffna &nbsp;|&nbsp; 🟢 Open to Opportunities</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0D1117&height=3&width=1000" width="100%" />
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -27,19 +27,6 @@
 
 <p align="center">🧠 <b>Currently Learning:</b> Machine Learning &amp; Artificial Intelligence — exploring how to apply it to real-world embedded &amp; full-stack systems</p>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamJegatheeswaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=GowthamJegatheeswaran&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamJegatheeswaran&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2E9EF7&height=3&width=1000" width="100%" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GowthamJegatheeswaran&style=flat-square&color=blue" />
-</p>
+<p align="center"><i>Building things at the intersection of software, hardware, and intelligence.</i></p>
