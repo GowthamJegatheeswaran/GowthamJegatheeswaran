@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2E9EF7,100:0D1117&height=180&section=header&text=Gowtham%20Jegatheeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate&descAlignY=62&descSize=18&descColor=eeeeee" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:2E9EF7&height=180&section=header&text=Gowtham%20Jegatheeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate&descAlignY=62&descSize=18&descColor=eeeeee" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Embedded+%26+IoT+Systems;AI+%2F+ML+Enthusiast;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1800&color=00F5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Embedded+%26+IoT+Systems;AI+%2F+ML+Enthusiast;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,11 +10,7 @@
   <a href="https://github.com/GowthamJegatheeswaran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Sri_Lanka-2E9EF7?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🎓_University_of_Jaffna-2E9EF7?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-2E9EF7?style=flat-square&labelColor=0D1117" />
-</p>
+<p align="center">📍 Sri Lanka &nbsp;•&nbsp; 🎓 University of Jaffna &nbsp;•&nbsp; 🟢 Open to Opportunities</p>
 
 <br>
 
@@ -50,4 +46,4 @@
 
 <p align="center"><i>"Building things at the intersection of software, hardware, and intelligence."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2E9EF7,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:2E9EF7&height=100&section=footer" width="100%" />
